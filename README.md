@@ -9,7 +9,7 @@ cara menggunakan :
 - klik new pada navigasi MySQL
 - kemudian isi nama sewa-mobil, setelah itu klik Create
 - kembali ke navigasi, pilih database sewa-mobil, kemudian pilih import di menu di dalamnya
-- choose file, kemudian pilih sewa-mobil.sql di lokasi pada point 3, setelah itu klik go pada pojok kanan bawah
+- choose file, kemudian pilih sewa-mobil.sql di lokasi pada point 4, setelah itu klik go pada pojok kanan bawah
 - database sewa-mobil siap digunakan
 - kemudian masuk http://localhost/sewa-mobil/index.html -> untuk user
 - http://localhost/sbi-rentalmobil3/indexadmin.php -> untuk admin
