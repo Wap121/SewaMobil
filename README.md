@@ -1,0 +1,16 @@
+cara menggunakan :
+- install xampp terlebih dahulu
+- download file sewa mobil
+- ekstrak filenya, kemudian hasil ekstraknya ganti nama jadi sewa-mobil
+- pindahkan file sewa mobil ke lokasi C:\xampp\htdocs\
+- buka xampp
+- start bagian apache dan mysql
+- klik admin pada bagian MySQL
+- klik new pada navigasi MySQL
+- kemudian isi nama sewa-mobil, setelah itu klik Create
+- kembali ke navigasi, pilih database sewa-mobil, kemudian pilih import di menu di dalamnya
+- choose file, kemudian pilih sewa-mobil.sql di lokasi pada point 3, setelah itu klik go pada pojok kanan bawah
+- database sewa-mobil siap digunakan
+- kemudian masuk http://localhost/sewa-mobil/index.html -> untuk user
+- http://localhost/sbi-rentalmobil3/indexadmin.php -> untuk admin
+- langkah menggunakan web dapat dilihat di file tutorial dalam bentuk pdf
